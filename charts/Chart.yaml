@@ -1,6 +1,6 @@
 apiVersion: v2
 name: stonedb-helm
-description: A Helm chart for Kubernetes to run StoneDB
+description: A Helm chart for Kubernetes to run StoneDB standone
 
 # A chart can be either an 'application' or a 'library' chart.
 #
