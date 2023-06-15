@@ -9,7 +9,7 @@ image:
   repository: stoneatom/stonedb
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "v1.0.1"
   pullSecret: ""
 
 nameOverride: "stonedb"
